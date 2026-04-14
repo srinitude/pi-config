@@ -12,6 +12,8 @@ This template is intentionally small. It centers on two files:
 
 Use it when you want a repo to start with a custom Pi system prompt and a repo-local operating contract, without inventing workflows or lifecycle behavior that Pi does not actually have.
 
+![pi-config template overview](./assets/remix-b-pipeline.png)
+
 ## Why this template exists
 
 Pi is designed to be **aggressively extensible** so it does not have to dictate your workflow. The core stays small, and you build what you need with:
